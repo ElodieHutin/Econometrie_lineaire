@@ -4,3 +4,4 @@ Réalisation d'une étude économétrique sur des données réelles sur la théo
 
 Nous avons premièrement réalisé une analyse univariée des variables. Puis nous avons mis en place une analyse de la variance (Anova, Anova de Welch, Test de Kruskal-Wallis), de la covariance (Ancova) et de la variance multivariée (MANOVA). 
 
+Vous trouverez dans ce dépôt le rapport détaillé ainsi que le notebook python utilisé pour réaliser l'étude.
